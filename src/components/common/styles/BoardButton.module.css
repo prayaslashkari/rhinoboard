@@ -1,0 +1,22 @@
+.board_button {
+  padding: 10px;
+  margin: 10px 0 10px 20px;
+  border: solid 1px black;
+  cursor: pointer;
+}
+
+.board_button_active {
+  padding: 10px;
+  margin: 10px 0 10px 20px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+
+.add_board_button {
+  padding: 10px;
+  margin: 10px 0 10px 20px;
+  background-color: greenyellow;
+  border: solid 1px black;
+  cursor: pointer;
+}

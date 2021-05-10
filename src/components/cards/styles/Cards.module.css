@@ -1,0 +1,6 @@
+.container {
+  border: solid 1px green;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

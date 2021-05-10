@@ -1,0 +1,20 @@
+.container {
+  border: solid 1px red;
+}
+
+.inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0px 10px;
+}
+
+.active_board_header {
+}
+
+.board_selector {
+  display: flex;
+  flex-direction: row;
+}

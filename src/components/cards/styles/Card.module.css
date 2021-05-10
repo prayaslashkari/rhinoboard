@@ -1,0 +1,37 @@
+.container {
+  margin: 15px 20px;
+  width: 200px;
+  min-height: 250px;
+  -webkit-box-shadow: 5px 5px 18px 0px rgba(0, 0, 0, 0.36);
+  box-shadow: 5px 5px 18px 0px rgba(0, 0, 0, 0.36);
+}
+
+/* Common styles for card name and card input */
+.editable_text_container {
+  margin: 10px;
+  display: block;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.editable_text_name {
+}
+
+.editable_text_input {
+  border: none;
+  outline: 1px #000 solid;
+}
+
+.editable_text_input:focus {
+  outline: 1px #000 solid;
+}
+
+/* .container p {
+  white-space: break-spaces;
+  overflow: hidden;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+} */

@@ -1,0 +1,14 @@
+.container {
+  margin: 15px 20px;
+  width: 200px;
+  min-height: 250px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px dashed black;
+  background-color: whitesmoke;
+
+  cursor: pointer;
+}

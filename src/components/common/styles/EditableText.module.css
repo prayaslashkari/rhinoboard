@@ -1,0 +1,19 @@
+.editable_text_container {
+  margin: 10px;
+  display: block;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.editable_text_name {
+}
+
+.editable_text_input {
+  border: none;
+  outline: 1px #000 solid;
+}
+
+.editable_text_input:focus {
+  outline: 1px #000 solid;
+}
